@@ -84,3 +84,10 @@ body {
 .active {
     background-color: #A62C21;
 }
+
+/* Header-Banner */
+
+.header-banner {
+    width: 100%;
+    height: auto;
+}
